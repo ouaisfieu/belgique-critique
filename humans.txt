@@ -1,0 +1,9 @@
+/* ÉQUIPE */
+Édition : Ouaisfi·eu — https://ouaisfi.eu/
+Rédaction assistée par IA (Claude, Anthropic), relue et vérifiée.
+
+/* SITE */
+Dernière mise à jour : 2026-09-24
+Langue : français (Belgique)
+Standards : HTML5, CSS3, schema.org JSON-LD, Atom
+Aucun cookie, aucun traceur.
